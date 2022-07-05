@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Promedi@</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ingresar_primera_calificación">ingresar</string>
+    <string name="ingresar_primer_número">Ingresar</string>
+    <string name="ingresar_segundo_número">ingresarcalificación</string>
+    <string name="ingresar_tercer_número">Ingresar 4to número</string>
+    <string name="ingresar_cuarto_número">Ingresar 2do número</string>
+    <string name="promedio">Promedio</string>
+    <string name="mayor">Mayor</string>
+    <string name="menor">Menor</string>
+    <string name="ingresar_tercera_calificacion">Ingresar tercera calificación</string>
+    <string name="ingresar_primera_calificacion">Ingresar primera calificación</string>
+    <string name="ingresar_cuarta_calificacion">Ingresar cuarta calificación</string>
+    <string name="ingresar_segunda_calificacion">Ingresar segunda calificación</string>
+</resources>
